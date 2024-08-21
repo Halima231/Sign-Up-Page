@@ -1,0 +1,39 @@
+
+body{
+    background: linear-gradient(to right,teal, skyblue);
+}
+  input{
+    background-color: aqua;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  input:hover{
+    box-shadow:2px 2px 5px rgba(0, 0, 0, 0.94);
+  }
+  .button{
+    border-style: outset;
+    border-color: #7b8494;
+    height: 50px;
+    width: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: none;
+  }
+  .button:hover{
+    background: #05443c;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow: none;
+  } 
+  .account{
+    color: white;
+  }
+  .up{
+    color: black;
+  }
+  a:hover{
+    color: hotpink;
+  }

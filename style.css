@@ -1,7 +1,6 @@
 
 body{
   background: linear-gradient(to right,teal, skyblue);
-  text-align: center;
 }
 input{
   background-color: aqua;
@@ -37,4 +36,10 @@ input:hover{
 }
 a:hover{
   color: hotpink;
+}
+.form-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* vh stands for viewport height */
 }

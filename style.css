@@ -1,6 +1,7 @@
 
 body{
   background: linear-gradient(to right,teal, skyblue);
+  text-align: center;
 }
 input{
   background-color: aqua;

@@ -2,6 +2,9 @@
 body{
   background: linear-gradient(to right,teal, skyblue);
 }
+h1,p{
+  text-align: center;
+}
 input{
   background-color: aqua;
   padding: 10px;

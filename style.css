@@ -3,7 +3,8 @@ body{
   background: linear-gradient(to right,teal, skyblue);
 }
 h1,p{
-  text-align: center;
+  justify-content: center;
+  align-content: center;
 }
 input{
   background-color: aqua;
